@@ -1,11 +1,15 @@
-[
-{
-	"question": "Britain and France declared war on Germany on 3 September 1939 after the German invasion of which country?",
+[{
+	"question": "Which of the following is not an electro magnetic wave ",
 	"answers": {
-		"a": "Denmark",
-		"b": "Poland",
-		"c": "Czechoslovakia",
+		"a": "x-rays",
+		"b": "alpha-rays",
+		"c": "gamma-rays",
+		"d": "light-rays",
 		"correct": "b"
+	},
+	"images": {
+		"diagram": "",
+		"illustrativeImage": ""
 	},
 	"smartData": {
 		"links": {
@@ -20,12 +24,17 @@
 	}
 },
 {
-	"question": "Britain and France declared war on Germany on 3 September 1939 after the German invasion of which country?",
+	"question": "The frequency of AC mains in India is ",
 	"answers": {
-		"a": "Denmark",
-		"b": "Poland",
-		"c": "Czechoslovakia",
+		"a": "110 C/S",
+		"b": "50 C/S",
+		"c": "60 C/S",
+		"d": "40 C/S",
 		"correct": "b"
+	},
+	"images": {
+		"diagram": "",
+		"illustrativeImage": ""
 	},
 	"smartData": {
 		"links": {
@@ -38,25 +47,4 @@
 			"threestar"
 		]
 	}
-},
-{
-	"question": "Britain and France declared war on Germany on 3 September 1939 after the German invasion of which country?",
-	"answers": {
-		"a": "Denmark",
-		"b": "Poland",
-		"c": "Czechoslovakia",
-		"correct": "b"
-	},
-	"smartData": {
-		"links": {
-			"contentLink": "http://www.google.com",
-			"videoLink": "http://www.youtube.com"
-		},
-		"keyWords": [
-			"social",
-			"eamcet-2020",
-			"threestar"
-		]
-	}
-}
-]
+}]
